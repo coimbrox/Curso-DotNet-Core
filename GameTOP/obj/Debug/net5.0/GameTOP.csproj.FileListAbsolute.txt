@@ -1,0 +1,16 @@
+D:\Curso DotNet\consolecore\GameTOP\bin\Debug\net5.0\GameTOP.exe
+D:\Curso DotNet\consolecore\GameTOP\bin\Debug\net5.0\GameTOP.deps.json
+D:\Curso DotNet\consolecore\GameTOP\bin\Debug\net5.0\GameTOP.runtimeconfig.json
+D:\Curso DotNet\consolecore\GameTOP\bin\Debug\net5.0\GameTOP.runtimeconfig.dev.json
+D:\Curso DotNet\consolecore\GameTOP\bin\Debug\net5.0\GameTOP.dll
+D:\Curso DotNet\consolecore\GameTOP\bin\Debug\net5.0\ref\GameTOP.dll
+D:\Curso DotNet\consolecore\GameTOP\bin\Debug\net5.0\GameTOP.pdb
+D:\Curso DotNet\consolecore\GameTOP\obj\Debug\net5.0\GameTOP.csproj.AssemblyReference.cache
+D:\Curso DotNet\consolecore\GameTOP\obj\Debug\net5.0\GameTOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso DotNet\consolecore\GameTOP\obj\Debug\net5.0\GameTOP.AssemblyInfoInputs.cache
+D:\Curso DotNet\consolecore\GameTOP\obj\Debug\net5.0\GameTOP.AssemblyInfo.cs
+D:\Curso DotNet\consolecore\GameTOP\obj\Debug\net5.0\GameTOP.csproj.CoreCompileInputs.cache
+D:\Curso DotNet\consolecore\GameTOP\obj\Debug\net5.0\GameTOP.dll
+D:\Curso DotNet\consolecore\GameTOP\obj\Debug\net5.0\ref\GameTOP.dll
+D:\Curso DotNet\consolecore\GameTOP\obj\Debug\net5.0\GameTOP.pdb
+D:\Curso DotNet\consolecore\GameTOP\obj\Debug\net5.0\GameTOP.genruntimeconfig.cache
